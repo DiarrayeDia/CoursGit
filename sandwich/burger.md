@@ -3,5 +3,5 @@ Salade
 Tomate
 Cornichon
 Fromage
-Pain
+Pain au sésame
 [Burger](../img/burger.png "Burger")
