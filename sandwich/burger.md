@@ -3,5 +3,5 @@ Salade
 Tomate
 Cornichon
 Fromage
-Pain au pavot
+Pain au fromage
 [Burger](../img/burger.png "Burger")
