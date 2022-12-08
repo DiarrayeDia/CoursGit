@@ -4,4 +4,4 @@ Tomate
 Cornichon
 Fromage
 Pain
-[Burger](/img/burger.png "Burger")
+[Burger](../img/burger.png "Burger")
